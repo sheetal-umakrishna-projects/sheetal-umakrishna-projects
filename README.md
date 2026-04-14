@@ -1,4 +1,4 @@
-### Hi there, I'm Sheetal 👋
+## Hi there, I'm Sheetal 👋
 
 I’m a Python developer with experience working on backend systems, automation workflows, and data engineering projects. My background includes developing Python-based automation and backend validation frameworks, working with APIs, databases, and cloud environments to improve reliability and efficiency.
 
@@ -23,14 +23,8 @@ To deepen my development skills, I have built projects in both backend developme
 - **PySpark ETL Pipeline** – Data ingestion and transformation pipeline using PySpark and Medallion architecture  
 - **SQL Data Warehouse** – End-to-end data warehouse design with star schema modeling and ETL layers  
 
-## 🌐 Socials:
+### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sheetal-umakrishna-4a156a7a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shee.umakrishna@gmail.com) 
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sheetal-umakrishna-projects&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sheetal-umakrishna-projects&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sheetal-umakrishna-projects&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🌍 About Me
 Recently relocated to Copenhagen, Denmark, and currently exploring opportunities in Python development and data engineering where I can contribute to building scalable backend systems and data-driven solutions.
